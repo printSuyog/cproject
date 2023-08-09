@@ -1,6 +1,5 @@
 # cproject
-project
-this is a project
+student database project in C
 
 Name: Suyog Adhikari
 Section: B2
