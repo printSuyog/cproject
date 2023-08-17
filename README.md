@@ -2,9 +2,11 @@
 student database project in C
 
 Name: Suyog Adhikari
-Section: B2
+Section: B
 Roll no: 75
+Faculty: Computer Engineering
 
 Name:Shaswat Subedi
-Section:B1
+Section:B
 Roll no: 60
+Faculty: Computer Engineering
